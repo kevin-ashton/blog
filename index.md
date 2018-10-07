@@ -12,6 +12,10 @@ What do I think of this?
 let x = "cool2";
 ```
 
+<div id="cool">
+  Love this
+</div>
+
 <table>
   <tr><td>Yep<td></tr>
   <tr><td>Yep<td></tr>
