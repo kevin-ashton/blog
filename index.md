@@ -1,3 +1,6 @@
+custom-javascript-list:
+    - "https://code.jquery.com/jquery-3.2.1.min.js"
+
 # Website home... (updated)
 
 This is a test
