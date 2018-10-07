@@ -2,4 +2,4 @@
 
 Could this work?
 
-[Home?](../../)
+[Home?](../)
