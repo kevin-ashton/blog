@@ -12,7 +12,7 @@ What do I think of this?
 let x = "cool2";
 ```
 
-<div id="cool" style="color:red">
+<div class="cool" style="color:red;">
   Love this
 </div>
 
