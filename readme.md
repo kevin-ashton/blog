@@ -3,5 +3,5 @@
 This is a test
 
 ```typescript
-let x = "cool"
+let x = "cool";
 ```
