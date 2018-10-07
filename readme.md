@@ -7,3 +7,7 @@ let x = "cool";
 ```
 
 What do I think of this? 
+
+```javascript
+let x = "cool2";
+```
