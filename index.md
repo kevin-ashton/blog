@@ -12,9 +12,8 @@ What do I think of this?
 let x = "cool2";
 ```
 
-<div id="cool">
+<div id="cool" style="color:red">
   Love this
-  <script>console.log('Will this work');</script>
 </div>
 
 <table>
