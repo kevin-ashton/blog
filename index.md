@@ -14,6 +14,7 @@ let x = "cool2";
 
 <div id="cool">
   Love this
+  <script>console.log('Will this work');</script>
 </div>
 
 <table>
