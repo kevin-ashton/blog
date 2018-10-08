@@ -3,7 +3,7 @@
 This is a test
 
 ```typescript
-let x = "cool";
+let x = "cool1";
 ```
 
 What do I think of this??
