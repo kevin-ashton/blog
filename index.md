@@ -3,13 +3,13 @@
 This is a test
 
 ```typescript
-let x = "cool1";
+let x = "cool11";
 ```
 
 What do I think of this??
 
 ```javascript
-let x = "cool2";
+let x = "cool22";
 ```
 
 <div class="cool1" id="cool2" style="color:red;">
@@ -17,8 +17,8 @@ let x = "cool2";
 </div>
 
 <table>
-  <tr><td>Yep<td></tr>
-  <tr><td>Yep<td></tr>
+  <tr><td>Yep</td></tr>
+  <tr><td>Yep</td></tr>
 </table>
 
 [Hello World](pages/2018/001-hello-world)
