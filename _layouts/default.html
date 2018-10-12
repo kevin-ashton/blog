@@ -21,12 +21,12 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <div><a href="https://kevin-ashton.github.io/blog/">Kevin Blog</a></div>
-
     <main id="content" class="main-content" role="main">
+          <div style="text-align: center; padding: 20px 0;"><a href="https://kevin-ashton.github.io/blog/">Kevin Blog</a></div>
+      
       {{ content }}
       
-      <div id="disqus_thread"></div>
+      <!-- <div id="disqus_thread"></div> -->
 <script>
 
 /**
@@ -38,14 +38,13 @@ this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL va
 this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
 };
 */
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = 'https://kevin-ashtons-blog.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
+//(function() { // DON'T EDIT BELOW THIS LINE
+//var d = document, s = d.createElement('script');
+//s.src = 'https://kevin-ashtons-blog.disqus.com/embed.js';
+//s.setAttribute('data-timestamp', +new Date());
+//(d.head || d.body).appendChild(s);
 })();
 </script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
                             
       <hr />
       <script src="https://kevin-ashton.github.io/blog/scripts/display-recent-files.js"></script>
