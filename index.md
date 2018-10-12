@@ -1,24 +1,3 @@
-# Website home... (updated)
+# Posts
 
-This is a test
-
-```typescript
-let x = "cool11";
-```
-
-What do I think of this??
-
-```javascript
-let x = "cool22";
-```
-
-<div class="cool1" id="cool2" style="color:red;">
-  Love this
-</div>
-
-<table>
-  <tr><td>Yep</td></tr>
-  <tr><td>Yep</td></tr>
-</table>
-
-[Hello World](pages/2018/001-hello-world)
+* [A Blog Platform](posts/2018-10-11-a-blog-platform.md) 2018-10-11
