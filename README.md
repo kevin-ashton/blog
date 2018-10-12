@@ -1,3 +1,3 @@
-# blog
+# Kevin's Tech Blog
 
-This is the readme file
+[https://kevin-ashton.github.io/blog/](https://kevin-ashton.github.io/blog/)
