@@ -1,5 +1,7 @@
 # A Blog Platform
 
+2018-10-11
+
 I've played with a lot of blog software during my day. Eventually all of it becomes old, stale, and a pain to update.  For a change I thought I'd just do something simple. As I considered my options it occurred to me that Github pages had most of the features I wanted including the following:
 
 *	Syntax highlighting for different programming languages
